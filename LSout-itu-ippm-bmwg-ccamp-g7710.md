@@ -1,5 +1,7 @@
 To:  ITU-T Q14/15, tsbsg15@itu.int
+
 For Action
+
 Due Date: 31 October 2026
 
 The IETF BMWG/CCAMP/IPPM WGs [1][2][3] would like to inform the ITU-T SG15 that the WGs are considering adoption of work referencing the G.7710 work. Specifically,
