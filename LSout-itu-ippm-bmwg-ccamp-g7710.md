@@ -17,10 +17,13 @@ The BMWG/CCAMP/IPPM WGs encourage the use of IPPM WG mailing list [3] as the mos
 answering questions, and progressing any work.
 
 OPS Area Director: Mohamed Boucadair
-Routin Area Director: Ketan Talaulikar
+
+Routing Area Director: Ketan Talaulikar
 
 BMWG Chairs: Giuseppe Fioccola & Sarah Banks
+
 CCAMP Chairs: Daniele Ceccarelli, Fatai Zhang, & Luis M. Contreras
+
 IPPM Chairs: Marcus Ihlar & Thomas Graf
 
 * [1] https://datatracker.ietf.org/group/bmwg/about/
