@@ -11,7 +11,7 @@ the following documents are candidates for adoption:
 * A YANG Data Model for Collection Interval Capabilities (draft-yoon-ippm-collection-interval-capabilities) [5]
 * A YANG Data Model for Performance Monitoring Streaming on Common Transport Equipment (draft-yoon-ccamp-pm-streaming) [6]
 
-Whether a subset or all these documents are adopted by these IETF WGs will depend on the community feedback.
+Whether a subset or all of these documents are adopted by the IETF WGs will depend on the community feedback.
 
 The BMWG/CCAMP/IPPM WGs are interested for reviews from ITU-T SG15 about the alignment of these specifications with the G.7710, in particular.
 
