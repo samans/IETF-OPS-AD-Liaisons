@@ -5,13 +5,15 @@ For Action
 Due Date: 31 October 2026
 
 The IETF BMWG/CCAMP/IPPM WGs [1][2][3] would like to inform the ITU-T SG15 that the WGs are considering adoption of work referencing the G.7710 work. Specifically,
-the following documents are candidate for adoption: 
+the following documents are candidates for adoption: 
 
 * A YANG Data Model for Collection Measurement (draft-yoon-ippm-collection-measure) [4]
 * A YANG Data Model for Collection Interval Capabilities (draft-yoon-ippm-collection-interval-capabilities) [5]
 * A YANG Data Model for Performance Monitoring Streaming on Common Transport Equipment (draft-yoon-ccamp-pm-streaming) [6]
 
-The BMWG/CCAMP/IPPM WGs are intersted for reviews from ITU-T SG15 about the alignment of these specifications with the G.7710, in particular.
+Whether a subset or all these documents are adopted by these IETF WGs will depend on the community feedback.
+
+The BMWG/CCAMP/IPPM WGs are interested for reviews from ITU-T SG15 about the alignment of these specifications with the G.7710, in particular.
 
 The BMWG/CCAMP/IPPM WGs encourage the use of IPPM WG mailing list [3] as the most effective and expedient way of exchanging information,
 answering questions, and progressing any work.
